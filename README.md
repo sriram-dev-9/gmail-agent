@@ -34,7 +34,7 @@ Before you begin, you'll need:
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/sriram-dev-9/gmail-agent.git
 cd mailagent
 npm install
 ```
