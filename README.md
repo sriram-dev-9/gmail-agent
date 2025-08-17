@@ -173,16 +173,3 @@ Set `NODE_ENV=development` for detailed error logs.
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details.
-
-## Support
-
-- 📧 Email: your-email@domain.com
-- 🐛 Issues: GitHub Issues
-- 📖 Docs: This README
-
----
-
-Built with ❤️ in 2025 using Next.js 15 and Google Gemini AI
